@@ -25,26 +25,26 @@ $$\text{demand function: }Q^D = aP+b$$
 
 **Demand Shifters**
 - **Income**
-    - **Normal good** - $\uarr$ Income $\Rarr$ Buy more $\Rarr$ shift D right.
-    - **Inferior good** - $\uarr$ Income $\Rarr$ Buy less $\Rarr$ shift D left.
+    - **Normal good** - $\uparrow$ Income $\Rightarrow$ Buy more $\Rightarrow$ shift D right.
+    - **Inferior good** - $\uparrow$ Income $\Rightarrow$ Buy less $\Rightarrow$ shift D left.
     > 关于正常品和劣等品：商品的属性，可能随外部情况变化而变化。
 - **Number of Buyers**
-    - $\uarr$ Number of buyers $\Rarr$ shift D right.
-    - $\darr$ Number of buyers $\Rarr$ shift D left.
+    - $\uparrow$ Number of buyers $\Rightarrow$ shift D right.
+    - $\downarrow$ Number of buyers $\Rightarrow$ shift D left.
 - **Preferences**
-    - Become popular $\Rarr$ shift D right.
-    - Become unpopular $\Rarr$ shift D left.
+    - Become popular $\Rightarrow$ shift D right.
+    - Become unpopular $\Rightarrow$ shift D left.
 - **Expections**: future events/prices
-    - Expect $\uarr$ futrue price $\Rarr$ Buy more today $\Rarr$ shift D right.
-    - Expect $\darr$ futrue price $\Rarr$ Buy less today $\Rarr$ shift D left.
+    - Expect $\uparrow$ futrue price $\Rightarrow$ Buy more today $\Rightarrow$ shift D right.
+    - Expect $\downarrow$ futrue price $\Rightarrow$ Buy less today $\Rightarrow$ shift D left.
 - **Price of related goods**
     - **Substitutes**: goods used for the same purpose. \(e.g. Coke and Pepsi\)
-        - $\uarr$ $P_{coke}$ $\Rarr$ Move up along $D_{coke}$ $\Rarr$ $\darr$ $Q^D_{coke}$.
-        - $\uarr$ $P_{coke}$ $\Rarr$ Shift $D_{pepsi}$ right $\Rarr$ $\uarr$ $D_{pepsi}$.
+        - $\uparrow$ $P_{coke}$ $\Rightarrow$ Move up along $D_{coke}$ $\Rightarrow$ $\downarrow$ $Q^D_{coke}$.
+        - $\uparrow$ $P_{coke}$ $\Rightarrow$ Shift $D_{pepsi}$ right $\Rightarrow$ $\uparrow$ $D_{pepsi}$.
     - **Complements**: goods used together. \(e.g. coffee and cream\)
-        - $\darr$ $P_{coffee}$ $\Rarr$ Move down along $D_{coffee}$ $\Rarr$ $\uarr$ $Q^D_{coffee}$.
-        - $\darr$ $P_{coffee}$ $\Rarr$ Shift $D_{cream}$ right $\Rarr$ $\uarr$ $D_{cream}$.
-    > 商品价格$\uarr$，需求量$\darr$，替代品需求$\uarr$，互补品需求$\darr$。<br>商品价格$\darr$，需求量$\uarr$，替代品需求$\darr$，互补品需求$\uarr$。
+        - $\downarrow$ $P_{coffee}$ $\Rightarrow$ Move down along $D_{coffee}$ $\Rightarrow$ $\uparrow$ $Q^D_{coffee}$.
+        - $\downarrow$ $P_{coffee}$ $\Rightarrow$ Shift $D_{cream}$ right $\Rightarrow$ $\uparrow$ $D_{cream}$.
+    > 商品价格$\uparrow$，需求量$\downarrow$，替代品需求$\uparrow$，互补品需求$\downarrow$。<br>商品价格$\downarrow$，需求量$\uparrow$，替代品需求$\downarrow$，互补品需求$\uparrow$。
 
 ## Part III
 
@@ -55,7 +55,7 @@ $$\text{demand function: }Q^D = aP+b$$
 - `Supply`, abbr.`S` - A relationship between the price of an item and the quantity supplied.
 
 **Law of Supply** - Holding everything else constant, an increase in the price of an item will increase its quantity supplied; a decrease in the price of an item will decrease its quantity supplied.
-$$P\uarr\Rarr Q^S\uarr;P\darr\Rarr Q^S\darr$$
+$$P\uparrow\Rightarrow Q^S\uparrow;P\downarrow\Rightarrow Q^S\downarrow$$
 
 The law of supply reveals that the supply curve is upward-sloping.
 
@@ -66,16 +66,16 @@ The law of supply reveals that the supply curve is upward-sloping.
 
 **Supply Shifters**
 - **Technology**
-    - $\uarr$ Technology $\Rarr$ $\darr$ cost of production $\Rarr$ Shift S right.
+    - $\uparrow$ Technology $\Rightarrow$ $\downarrow$ cost of production $\Rightarrow$ Shift S right.
 - **Input prices**
-    - $\uarr$ Input prices $\Rarr$ $\uarr$ cost of production $\Rarr$ Shift S left.
-    - $\darr$ Input prices $\Rarr$ $\darr$ cost of production $\Rarr$ Shift S right.
+    - $\uparrow$ Input prices $\Rightarrow$ $\uparrow$ cost of production $\Rightarrow$ Shift S left.
+    - $\downarrow$ Input prices $\Rightarrow$ $\downarrow$ cost of production $\Rightarrow$ Shift S right.
 - **Number of sellers for the product**
-    - $\uarr$ Number of sellers $\Rarr$ Shift S right.
-    - $\darr$ Number of sellers $\Rarr$ Shift S left.
+    - $\uparrow$ Number of sellers $\Rightarrow$ Shift S right.
+    - $\downarrow$ Number of sellers $\Rightarrow$ Shift S left.
 - **Expectations**
-    - Expect $\uarr$ future price $\Rarr$ sell less today $\Rarr$ Shift S left.
-    - Expect $\darr$ future price $\Rarr$ sell more today $\Rarr$ Shift S right.
+    - Expect $\uparrow$ future price $\Rightarrow$ sell less today $\Rightarrow$ Shift S left.
+    - Expect $\downarrow$ future price $\Rightarrow$ sell more today $\Rightarrow$ Shift S right.
 - **Substitutes in production** (e.g. cars and trucks)
-    - $\uarr$ $P_{truck}$ $\Rarr$ Move up along $S_{truck}$ $\Rarr$ $\uarr$ $Q^S_{truck}$.
-    - $\uarr$ $P_{truck}$ $\Rarr$ Shift $S_{car}$ right $\Rarr$ $\uarr$ $S_{car}$.
+    - $\uparrow$ $P_{truck}$ $\Rightarrow$ Move up along $S_{truck}$ $\Rightarrow$ $\uparrow$ $Q^S_{truck}$.
+    - $\uparrow$ $P_{truck}$ $\Rightarrow$ Shift $S_{car}$ right $\Rightarrow$ $\uparrow$ $S_{car}$.
