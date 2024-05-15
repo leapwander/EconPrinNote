@@ -10,3 +10,4 @@
 - [Lec2](Lec2/Lec2%20Production%20Possibilities%20Frontier.md) Prodection Possibilities Frontier
 - [Lec3](Lec3/Lec3%20Budget%20Constraint.md) Budget Constraint
 - [Lec4](Lec4/Lec4%20Demand%20and%20Supply.md) Demand and Supply
+- [Lec5](Lec5/Lec5%20Market%20Equilibrium.md) Market Equilibrium
