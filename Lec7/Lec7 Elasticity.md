@@ -8,7 +8,7 @@
 
 $$ \begin{aligned}
 PED &= \frac{\text{Percentage change in quantity demanded}}{\text{Percentage change in price}} <0 \\ 
-&= \frac{\% \Delta Q}{\% \Delta P} = \frac{\frac{\Delta Q}{Q}}{\frac{\Delta P}{P}}=\frac{P}{Q}\cdot\frac{\Delta Q}{\Delta P} = \frac{\frac{P}{Q}}{\text{slope}}
+&= \frac{ \% \Delta Q}{ \% \Delta P} = \frac{\frac{\Delta Q}{Q}}{\frac{\Delta P}{P}}=\frac{P}{Q}\cdot\frac{\Delta Q}{\Delta P} = \frac{\frac{P}{Q}}{\text{slope}}
 \end{aligned}$$
 
 > $Q$在这里为$Q^D$。
@@ -59,3 +59,5 @@ Price elasticity is positive due to the law of supply. Also, it is shown from th
 - Elastic Supply: PES > 1
 - Inelastic Supply: 0< PES < 1
 - Unit-elastic Supply: PES = 1
+
+> 笑死，百分号给我整个公式干没了。
