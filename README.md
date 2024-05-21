@@ -13,3 +13,4 @@
 - [Lec5](Lec5/Lec5%20Market%20Equilibrium.md) Market Equilibrium
 - [Lec6](Lec6/Labor%20Market%20and%20Price%20Controls.md) Labor Market and Price Controls
 - [Lec7](Lec7/Lec7%20Elasticity.md) Elasticity
+- [Lec8](Lec8/Lec8%20Production.md) Production
